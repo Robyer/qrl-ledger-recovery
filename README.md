@@ -73,6 +73,12 @@ go mod download
 go build -o qrl-ledger-recovery main.go
 ```
 
+## 🎁 Donate
+
+If you found this project helpful, you can donate to my QRL address:
+
+`Q0105005f60f40b22fe9034c68ab85a3081c86ad7cc644bd1fa2075f87bac1e9d838a9640c08040`
+
 ## Resources
 
 - [QRL Website](https://www.theqrl.org)
