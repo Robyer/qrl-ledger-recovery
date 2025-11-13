@@ -1,6 +1,10 @@
-# QRL Ledger Nano S Recovery Tool
+# QRL Ledger Recovery Tool
 
 Recover your QRL coins from Ledger Nano S devices that no longer support the QRL app due to firmware v2.x incompatibility.
+
+## Alternative Solution
+
+> **💡 Note:** If you still have access to your Ledger Nano S device and your PIN code, you can manually install the QRL app instead of extracting your keys. This method keeps your recovery phrase secure and doesn't require exposing it to a computer. See the [QRL Ledger Manual Installation Guide](https://github.com/Robyer/qrl-ledger-nanos) for detailed instructions.
 
 ## Demo
 
